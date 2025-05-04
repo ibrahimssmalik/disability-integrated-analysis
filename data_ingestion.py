@@ -71,7 +71,7 @@ def initialize_mongodb(spark):
 def download_file(file_name):
     """Download file from Azure blob storage if it doesn't exist locally."""
     try:
-        sas_token = "sp=r&st=2025-04-21T17:01:01Z&se=2025-04-22T01:01:01Z&spr=https&sv=2024-11-04&sr=c&sig=xr3ciGr903ZXGyvbhRuuf9trW6TgRTeajYGkv6WWkL4%3D"
+        sas_token = "ADD SAS TOKEN HERE"
         file_url = f"https://datasets4disability.blob.core.windows.net/datasets/{file_name}?{sas_token}"
         
         if not os.path.exists(file_name):
