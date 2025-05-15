@@ -1,6 +1,6 @@
 # Exploring Socioeconomic Drivers of Disability Prevalence Using Distributed Big Data Systems
 
-This project investigates socioeconomic drivers of disability prevalence across the United States, with a focus on important factors like income, education, and access to healthcare. The project integrates data from multiple sources using big data systems, including PostgreSQL, MongoDB, and Azure Blob Storage, and utilizes tools like PySpark and Pandas for analysis. In order to predict disability prevalence based on socioeconomic indicators, machine learning techniques are also applied.
+This project investigates socioeconomic drivers of disability prevalence across the United States, with a focus on important factors like income, education, and access to healthcare. The project integrates data from multiple sources using big data systems, including PostgreSQL, MongoDB, and Azure Blob Storage, and utilizes tools like PySpark and Pandas for analysis. To predict disability prevalence based on socioeconomic indicators, machine learning techniques are also applied.
 
 ## Project Structure
 
