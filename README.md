@@ -61,7 +61,7 @@ Master of Data Analytics - Data Intensive Scalable Systems
 
 ## License
 This project is licensed under the MIT License.
----
+
 ## Contact Me
 [Github](https://github.com/ibrahimssmalik)
 [LinkedIn](https://linkedin.com/in/ibrahimssmalik)
